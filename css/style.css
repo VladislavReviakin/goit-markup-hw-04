@@ -157,6 +157,8 @@ body {
 
 .hero-section {
   background-color: #2e2f42;
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/hw-four/people-office.jpg);
+  background-size: cover;
   top: 71px;
   padding: 188px 0px;
 }
@@ -377,4 +379,41 @@ body {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+.features-icon {
+  background-color: #f4f4fd;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.social-list {
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  padding-bottom: 32px;
+}
+
+.social-list-item {
+  width: 16px;
+  height: 16px;
+}
+
+.social-list-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  background-color:#4d5ae5;
+  border-radius: 50%;
+}
+
+.social-list-minilist {
+  column-gap: 24px;
+}
+
+.social-list-link:hover {
+  background-color: #404bbf;
 }
