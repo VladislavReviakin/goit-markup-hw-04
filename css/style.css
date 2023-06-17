@@ -417,3 +417,23 @@ body {
 .social-list-link:hover {
   background-color: #404bbf;
 }
+
+.logoclient {
+  width: 104px;
+  height: 52px;
+}
+.customers-list {
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 120px;
+}
+
+.logo-btn {
+  background-color: #ffffff;
+}
+
+.customers-theme {
+  padding-top: 120px;
+  padding-bottom: 72px;
+}
