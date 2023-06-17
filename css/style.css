@@ -420,7 +420,7 @@ body {
 
 .logoclient {
   width: 104px;
-  height: 52px;
+  height: 56px;
 }
 .customers-list {
   gap: 24px;
@@ -431,9 +431,20 @@ body {
 
 .logo-btn {
   background-color: #ffffff;
+  width: 168px;
+  height: 88px;
 }
 
 .customers-theme {
   padding-top: 120px;
   padding-bottom: 72px;
+}
+
+.dark-name {
+  color: #ffffff;
+  display: flex;
+}
+.footer-social {
+  text-align: right;
+  justify-content: right;
 }
