@@ -31,6 +31,9 @@
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
+  /*hw4 correct*/
+  position: relative;
+  color: #404bbf;
 }
 
 .list {
