@@ -573,3 +573,8 @@ body {
   border-radius: 4px;
   margin-bottom: 8px;
 }
+
+.social-list-minilist-item {
+  width: 40px;
+  height: 40px;
+}
