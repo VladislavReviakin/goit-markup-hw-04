@@ -324,7 +324,7 @@ body {
 }
 
 .colective-text {
-  padding: 32px /*16px*/0;
+  padding: 32px /*16px*/0 32px;
 }
 
 .end-paragraph {
@@ -399,7 +399,7 @@ body {
   justify-content: center;
   /*padding-top: 8px;
   padding-bottom: 32px; (hw4 corect)*/
-  padding: 32px 0;
+  padding: 32px 0 32px;
 }
 
 .social-list-item {
