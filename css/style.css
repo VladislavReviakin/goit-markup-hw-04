@@ -419,6 +419,9 @@ body {
 
 .social-list-minilist {
   column-gap: 24px;
+  /*hw4 corect*/
+  justify-content: center;
+  gap: 24px;
 }
 
 .social-list-link:hover {
