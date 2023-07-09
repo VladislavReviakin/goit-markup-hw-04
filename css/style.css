@@ -404,8 +404,8 @@ body {
 
 .social-list-item {
   fill: #f4f4fd;
-  width: 16px;
-  height: 16px;
+  /*width: 16px;
+  height: 16px; (hw4 corect)*/
 }
 
 .social-list-link {
