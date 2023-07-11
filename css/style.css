@@ -602,3 +602,8 @@ body {
   width: calc((100%-120px) / 6);
   height: 88px;
 }
+
+.footer-div {
+  display: flex;
+  align-items: baseline;
+}
