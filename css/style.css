@@ -435,8 +435,8 @@ body {
 }
 
 .logoclient {
-  width: 104px;
-  height: 56px;
+  
+  fill: currentColor;
 }
 .customers-list {
   gap: 24px;
