@@ -465,6 +465,11 @@ body {
   color: #404bbf;
 }
 
+.logo-btn:focus {
+  border-color: #404bbf;
+  color: #404bbf;
+}
+
 .customers-theme {
   line-height: 1.11;
   color: var(--accent-color);
