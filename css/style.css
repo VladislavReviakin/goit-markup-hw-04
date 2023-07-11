@@ -473,6 +473,8 @@ body {
 
 .dark-name {
   color: #ffffff;
+  font-weight: 500;
+  margin-bottom: 16px;
 }
 
 .footer-social {
