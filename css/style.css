@@ -452,7 +452,8 @@ body {
 }
 
 .customers-theme {
-  padding-top: 120px;
+  line-height: 1.11;
+  color: var(--accent-color);
   padding-bottom: 72px;
 }
 
@@ -579,4 +580,8 @@ body {
 .social-list-minilist-item {
   width: 40px;
   height: 40px;
+}
+
+.customers {
+  padding: 120px 0;
 }
