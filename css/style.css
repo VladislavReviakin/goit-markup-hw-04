@@ -607,3 +607,7 @@ body {
   display: flex;
   align-items: baseline;
 }
+
+.footer-logo-div {
+  margin-right: 120px;
+}
